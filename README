@@ -3,7 +3,7 @@ Rail3ActivityStreams
 
 Rails3ActivityStreams is a Rails 3 gem providing a customizable models
 for cataloging and publishing user activity base upon rails3-activity-streams 
-()
+(https://github.com/face/activity_streams)
 
 Developed and tested on Rails 3.0.3
 
